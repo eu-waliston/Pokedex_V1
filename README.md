@@ -1,1 +1,1 @@
-# Pokedex_V1
+# Pokedex_V1 com HTML, CSS & JavaScript
